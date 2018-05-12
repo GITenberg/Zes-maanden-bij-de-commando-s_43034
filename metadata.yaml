@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41993'
     url: http://www.gutenberg.org/2009/agents/41993
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43034#Zes-maanden-bij-de-commando-s
 gutenberg_issued: '2013-06-25'
 gutenberg_type: Text
 identifiers:
