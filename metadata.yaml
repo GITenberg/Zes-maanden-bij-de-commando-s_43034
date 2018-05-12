@@ -1,0 +1,26 @@
+_repo: Zes-maanden-bij-de-commando-s_43034
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43034-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hofmeyr, Nico J.
+    alias: Hofmeyr, N.
+    gutenberg_agent_id: '41993'
+    url: http://www.gutenberg.org/2009/agents/41993
+description: ''
+gutenberg_issued: '2013-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43034'
+  lccn: '41030709'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+- !lcc 'DT'
+title: Zes maanden bij de commando's
+url: http://www.gutenberg.org/ebooks/43034
